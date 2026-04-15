@@ -1339,150 +1339,150 @@ window.PORTFOLIO_DATA = {
         "label": "Project 02",
         "description": "24 werken uit Dímelo Design.",
         "type": "image",
-        "cover": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/BrandingSheet.png",
+        "cover": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/BrandingSheet.png",
         "items": [
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/BrandingSheet.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/BrandingSheet.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/BrandingSheet.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/BrandingSheet.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Briefpapier1.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Briefpapier1.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Briefpapier1.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Briefpapier1.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Briefpapier2.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Briefpapier2.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Briefpapier2.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Briefpapier2.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Drankenkaart.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Drankenkaart.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Drankenkaart.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Drankenkaart.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Hart%20voor%20Baexem%20Homepage%20All%20Devices.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Hart%20voor%20Baexem%20Homepage%20All%20Devices.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Hart%20voor%20Baexem%20Homepage%20All%20Devices.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Hart%20voor%20Baexem%20Homepage%20All%20Devices.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Logo.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Logo.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Logo.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Logo.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/LogoVoorstel1.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/LogoVoorstel1.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/LogoVoorstel1.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/LogoVoorstel1.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/LogoVoorstel2.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/LogoVoorstel2.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/LogoVoorstel2.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/LogoVoorstel2.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/LogoVoorstel3.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/LogoVoorstel3.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/LogoVoorstel3.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/LogoVoorstel3.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Logovoorstel4.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Logovoorstel4.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Logovoorstel4.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Logovoorstel4.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/LogoVoorstel5.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/LogoVoorstel5.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/LogoVoorstel5.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/LogoVoorstel5.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/LogoVoorstel6.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/LogoVoorstel6.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/LogoVoorstel6.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/LogoVoorstel6.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Manana1.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Manana1.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Manana1.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Manana1.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Menukaart.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Menukaart.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Menukaart.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Menukaart.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Poster.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Poster.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Poster.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Poster.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/PPP1.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/PPP1.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/PPP1.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/PPP1.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/PPP2.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/PPP2.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/PPP2.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/PPP2.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Roggel%20Onderneemt%20-%20All%20Devices.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Roggel%20Onderneemt%20-%20All%20Devices.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Roggel%20Onderneemt%20-%20All%20Devices.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Roggel%20Onderneemt%20-%20All%20Devices.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Social1.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Social1.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Social1.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Social1.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Social2.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Social2.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Social2.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Social2.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Social3.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Social3.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Social3.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Social3.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Social4.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Social4.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Social4.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Social4.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/VeriFlyer.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/VeriFlyer.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/VeriFlyer.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/VeriFlyer.png",
             "alt": "Projecten - Dímelo Design"
           },
           {
             "type": "image",
-            "src": "assets/Portfolio/Projecten/Di%CC%81melo%20Design/Visitekaart%20Manana.png",
-            "thumb": "assets/Portfolio/.thumbs/Projecten/Di%CC%81melo%20Design/Visitekaart%20Manana.png",
+            "src": "assets/Portfolio/Projecten/D%C3%ADmelo%20Design/Visitekaart%20Manana.png",
+            "thumb": "assets/Portfolio/.thumbs/Projecten/D%C3%ADmelo%20Design/Visitekaart%20Manana.png",
             "alt": "Projecten - Dímelo Design"
           }
         ]
